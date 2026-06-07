@@ -16,6 +16,9 @@ export const metadata: Metadata = {
     apple: "/text-go.png",
     shortcut: "/text-go.png",
   },
+  verification: {
+    google: "TxgSXLMu5zlf3ihJNr8psrStRSXph5Kt7q3DZV7O0_U",
+  },
 }
 
 export default function RootLayout({
